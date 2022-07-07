@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijitsarode" alt="abhijitsarode" /></a> </p>
 
-- 🔭 I’m currently working on [building my own site](abhijitsarode.in)
+- 🔭 I’m currently working on [building my own site](https://www.abhijitsarode.in)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
