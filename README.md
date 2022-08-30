@@ -32,10 +32,16 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- dev.to -->
 <a href="https://dev.to/abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhijitsarode" height="30" width="40" /></a>
+<!--twitter-->
 <a href="https://twitter.com/abhijit_ras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijit_ras" height="30" width="40" /></a>
+<!-- hashnode -->
 <a href="https://hashnode.com/@abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abhijitsarode" height="30" width="40" /></a>
+<!-- leetcode   -->
 <a href="https://www.leetcode.com/abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijitsarode" height="30" width="40" /></a>
+<!-- codewars   -->
+<a href="https://www.codewars.com/users/AbhijitSarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.codewars.com/users/abhijitsarode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
