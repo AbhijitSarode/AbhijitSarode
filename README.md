@@ -48,8 +48,8 @@ Feel free to browse through my GitHub repositories and reach out to me if you ha
 <!-- leetcode   -->
 <a href="https://www.leetcode.com/abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijitsarode" height="30" width="40" /></a>
 <!-- codewars   -->
-<a href="https://www.codewars.com/users/AbhijitSarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.codewars.com/users/abhijitsarode" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://www.codewars.com/users/AbhijitSarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.codewars.com/users/abhijitsarode" height="30" width="40" /></a>
+</p> -->
 <!-- email -->
 
 Alternatively you can [click here](mailto:sarode.abhijit14@gmail.com?subject=Hello%20from%20GitHub&body=Hi%20there%2C%0D%0A%0D%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect%20with%20you%20about%20potential%20collaborations.%20Let%20me%20know%20if%20you%27re%20interested.%0D%0A%0D%0ABest%20Regards%2C%0D%0A%0D%0A[Your%20Name]) to open a pre-filled email in your default email client.
