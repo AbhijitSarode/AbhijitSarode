@@ -11,7 +11,7 @@ jobs:
         steps: 
             - name: Checkout
               uses: actions/checkout@v3
-            - uses: AbhijitSarode/AbhijitSarode@master
+            - uses: AbhijitSarode/AbhijitSarode
               with:
                 feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
                 template: "$newline - $counter $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
