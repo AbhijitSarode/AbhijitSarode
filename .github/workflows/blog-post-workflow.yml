@@ -17,8 +17,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                 comment_tag_name: "BLOGPOSTS"
-                max_post_count: "4"
                 feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
                 template: "$newline - $counter $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
-                commit_message: "recent posts section updated"
-                gh_token: ${{ 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 }}
