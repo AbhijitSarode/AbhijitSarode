@@ -14,8 +14,8 @@ jobs:
         steps: 
             - name: Checkout repository
               uses: actions/checkout@v3
-            - name: Update README with latest blog post
-              uses: AbhijitSarode/AbhijitSarode@main
+            - name: Get Hashnode blogs
+              uses: gautamkrishnar/blog-post-workflow@v1
               with:
                 feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
                 template: "$newline - $counter $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
