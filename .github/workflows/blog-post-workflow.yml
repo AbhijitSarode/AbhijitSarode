@@ -18,4 +18,4 @@ jobs:
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
                 feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
-                template: "$newline - $counter $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+                template: "$newline - $counter $description [$title]($url) $feedName"
