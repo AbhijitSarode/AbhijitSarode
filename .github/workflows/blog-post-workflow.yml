@@ -11,8 +11,7 @@ jobs:
         steps: 
             - name: Checkout
               uses: actions/checkout@v3
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: abhijitsarode/blog-post-workflow@master
               with:
-                comment_tag_name: "BLOGPOSTS"
                 feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
                 template: "$newline - $counter $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
