@@ -1,7 +1,5 @@
 name: Latest Hashnode blog post workflow
 on: 
-    schedule:
-        - cron: '0 12 * * *'
     workflow_dispatch:
     
 permissions:
@@ -18,4 +16,4 @@ jobs:
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
                 feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
-                template: "$newline - $counter [$title]($url) $feedName"
+                template: "$newline - $counter [$title]($url) "
