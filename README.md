@@ -36,7 +36,6 @@ Feel free to browse through my GitHub repositories and reach out to me if you ha
 <!-- - 🔭 I’m currently working on [building my own site](https://www.abhijitsarode.in) -->
 
 ### Blogs posts
-https://abhijitsarode.hashnode.dev
 <!-- BLOG-POST-LIST:START -->
  - 1 🌮 [CSS Methodologies Demystified: An Introduction to OOCSS, ACSS, BEM, and SMACSS](https://abhijitsarode.hashnode.dev/css-methodologies-demystified-an-introduction-to-oocss-acss-bem-and-smacss)<!-- BLOG-POST-LIST:END -->
 
