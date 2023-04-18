@@ -37,7 +37,7 @@ Feel free to browse through my GitHub repositories and reach out to me if you ha
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- - 1 [CSS Methodologies Demystified: An Introduction to OOCSS, ACSS, BEM, and SMACSS](https://abhijitsarode.hashnode.dev/css-methodologies-demystified-an-introduction-to-oocss-acss-bem-and-smacss) <!-- BLOG-POST-LIST:END -->
+ - 1 [CSS Methodologies Demystified: An Introduction to OOCSS, ACSS, BEM, and SMACSS](https://abhijitsarode.hashnode.dev/css-methodologies-demystified-an-introduction-to-oocss-acss-bem-and-smacss)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
