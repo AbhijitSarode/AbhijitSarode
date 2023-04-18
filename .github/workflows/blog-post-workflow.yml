@@ -1,14 +1,24 @@
-# name: Latest blog post workflow
-# on: 
-#     schedule:
-#         - cron: '*/30 * * * *'
-# jobs: 
-#     update-readme-with-blog: 
-#         name: Update this repo's README with latest blog posts
-#         runs-on: ubuntu-latest
-#         steps: 
-#             - uses: actions/checkout@v2
-#             - uses: gautamkrishnar/blog-post-workflow@master
-#               with: 
-#                 max_post_count: "4"
-#                 feed_list: "https://dev.to/feed/abhijitsarode"
+name: Latest Hashnode blog post workflow
+on: 
+    schedule:
+        - cron: '0 12 * * *'
+    workflow_dispatch:
+
+permissions:
+    contents: write
+    
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - name: Checkout
+              uses: actions/checkout@v3
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with:
+                comment_tag_name: "BLOGPOSTS"
+                max_post_count: "4"
+                feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
+                template: "$newline - $counter $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+                commit_message: "recent posts section updated"
+                gh_token: ${{ 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 }}
