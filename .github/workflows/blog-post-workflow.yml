@@ -12,9 +12,10 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - name: Checkout
+            - name: Checkout repository
               uses: actions/checkout@v2
-            - uses: AbhijitSarode/AbhijitSarode@main
+            - name: Update README with latest blog post
+              uses: AbhijitSarode/AbhijitSarode@main
               with:
                 feed_list: "https://abhijitsarode.hashnode.dev/rss.xml"
                 template: "$newline - $counter $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
