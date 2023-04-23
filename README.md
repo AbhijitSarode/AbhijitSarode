@@ -47,7 +47,7 @@ Feel free to browse through my GitHub repositories and reach out to me if you ha
 <!--twitter-->
 <a href="https://twitter.com/abhijit_ras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijit_ras" height="30" width="40" /></a>
 <!-- hashnode -->
-<a href="https://hashnode.com/@abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abhijitsarode" height="30" width="40" /></a>
+<a href="https://abhijitsarode.hashnode.dev" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/16342708?s=200&v=4" alt="@abhijitsarode" height="40" width="40" /></a> 
 <!-- leetcode   -->
 <a href="https://www.leetcode.com/abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijitsarode" height="30" width="40" /></a>
 <!-- codewars   -->
