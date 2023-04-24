@@ -45,11 +45,13 @@ Feel free to browse through my GitHub repositories and reach out to me if you ha
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--twitter-->
-<a href="https://twitter.com/abhijit_ras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijit_ras" height="30" width="40" /></a>
+<a href="https://twitter.com/abhijit_ras" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abhijit_ras" height="30" width="40" /></a>
 <!-- hashnode -->
-<a href="https://abhijitsarode.hashnode.dev" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/16342708?s=200&v=4" alt="@abhijitsarode" height="40" width="40" /></a> 
+<a href="https://abhijitsarode.hashnode.dev" target="_blank"><img align="center" src="https://asset.brandfetch.io/idF1DzCF5W/idR0kumN0w.svg" alt="https://abhijitsarode.hashnode.dev" height="40" width="120" /></a> 
 <!-- leetcode   -->
-<a href="https://www.leetcode.com/abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijitsarode" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/abhijitsarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijitsarode" height="30" width="40" /></a> -->
+<!-- Polywork  -->
+<a href="https://poly.me/abhijitsarode" target="_blank"><img align="center" src="https://asset.brandfetch.io/idNBXwW0oc/idHXMj_eFf.png" alt="https://poly.me/abhijitsarode" height="20" width="120"/></a>
 <!-- codewars   -->
 <!-- <a href="https://www.codewars.com/users/AbhijitSarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.codewars.com/users/abhijitsarode" height="30" width="40" /></a>
 </p> -->
