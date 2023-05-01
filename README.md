@@ -37,7 +37,8 @@ Feel free to browse through my GitHub repositories and reach out to me if you ha
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- - 1 [CSS Methodologies Demystified: An Introduction to OOCSS, ACSS, BEM, and SMACSS](https://abhijitsarode.hashnode.dev/css-methodologies-demystified-an-introduction-to-oocss-acss-bem-and-smacss)<!-- BLOG-POST-LIST:END -->
+ - 1 [My Experience with Neumorphism Design: A Journey into the World of Soft UI](https://abhijitsarode.hashnode.dev/neumorphism-design)
+ - 2 [CSS Methodologies Demystified: An Introduction to OOCSS, ACSS, BEM, and SMACSS](https://abhijitsarode.hashnode.dev/css-methodologies-demystified-an-introduction-to-oocss-acss-bem-and-smacss)<!-- BLOG-POST-LIST:END -->
 
 ### Problem Solving
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AbhijitSarode?ext=heatmap)
